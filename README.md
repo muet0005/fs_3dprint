@@ -8,6 +8,9 @@ The code is also heavily tailored for printing on BambuLab printers.
 What it will do:
 
 1.) Convert the lh/rh surfaces into STL meshes
+
 2.) Convert the non-cortical volume-based data into a single STL mesh
+
 3.) Apply smoothing to the meshes, and also fix defects /issues with the meshes using pymeshlabs. 
+
 4.) Merge all meshes together into a final STL file. 
