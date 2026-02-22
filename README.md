@@ -24,3 +24,8 @@ create_stl.py --> convert an FS output to STL
 create_gcode.py --> updates a standard 3mf template with your STL geomtry for printing. 
 
 Note, the create_gcode.py step is optional. you can load the STL onto a slicing software to re-size it, and slice it yourself if desired. For this you need orca-slicer or bambulabs GUI.   For create_gcode, we also have a singularity image which is required in order to use the orca-slicer command line interface. 
+
+
+# This project was generously funded by the Health Start Sprint Project Touching Minds
+![Description](assets/healthy_start_logo.png)
+https://convergence.nl/healthy-start/healthy-start-sprinters/healthy-start-sprinter-touching-minds/
