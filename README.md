@@ -1,7 +1,7 @@
 # fs_3dprint
 # Code to convert FreeSurfer outputs into 3D-printable meshes. 
 
-This code is heavily based on: https://github.com/miykael/3dprintyourbrain
+This code is heavily inspired by: https://github.com/miykael/3dprintyourbrain
 
 The code is also heavily tailored for printing on BambuLab printers. 
 
