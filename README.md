@@ -27,5 +27,5 @@ Note, the create_gcode.py step is optional. you can load the STL onto a slicing 
 
 
 # This project was generously funded by the Health Start Sprint Project Touching Minds
-![Description](assets/healthy_start_logo.png)
+![Description](assets/images/healthy_start_logo.png)
 https://convergence.nl/healthy-start/healthy-start-sprinters/healthy-start-sprinter-touching-minds/
